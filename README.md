@@ -1,4 +1,4 @@
- ![](https://github.com/jhpenas/dashboard-megahack3/titulo.jpg)
+ ![](/titulo.png)
 # Dashboard Mega Hack 3
 Aplicação desenvolvida para apresentar e processar os dados coletados através do aplicativo TAGalera. O aplicativo TAGalera foi criado no Hackathon da Shawee: Megahack3 no desafio Ambev.
 
@@ -11,9 +11,10 @@ Pensando nisso, atráves dos dados coletados do aplicativo TAGalera, foi criada 
 
 
 Na opção "Ver perfil dos consumidores de cada bebida", a fabricante pode observar o perfil dos consumidores de determinado produto, através de diversos gráficos, e com isso, direcionar suas futuras campanhas de marketing.
-
+ ![](/screenshots/tagalera2.png)
 
 
 Na opção "Prever Bebida Preferida do Consumidor", através de um algoritmo de Machine Learning baseado em regressão Logística, pode-se prever bebidas que o usuário apresenta grande chance de aprovar baseado em seu perfil.
-
-Importante: O aplicativo TAGalera foi desenvolvido por Everson Motta, Jhonata Araújo, Juan Penas e Rafael Bleidi no Hackathon Megahack3. O aplicativo foi concluído, porém ainda não foi lançado, por este motivo, foi criada uma base de dados em caráter demonstrativo de suas funcionalidades. Onde seus dados foram coletados a partir de formulário Google Forms, e os campos Bebida e Música favorita foram gerados randomicamente, somente para demonstrações
+ ![](/screenshots/tagalera1.png)
+ 
+**Importante:** O aplicativo TAGalera foi desenvolvido por Everson Motta, Jhonata Araújo, Juan Penas e Rafael Bleidi no Hackathon Megahack3. O aplicativo foi concluído, porém ainda não foi lançado, por este motivo, foi criada uma base de dados em caráter demonstrativo de suas funcionalidades. Onde seus dados foram coletados a partir de formulário Google Forms, e os campos Bebida e Música favorita foram gerados randomicamente, somente para demonstrações
