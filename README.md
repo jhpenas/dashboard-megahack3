@@ -1,5 +1,8 @@
  ![](/titulo.png)
 # Dashboard Mega Hack 3
+<sub>[Outros Projetos](https://github.com/jhpenas/portfolio).</sub>
+
+---
 Aplicação desenvolvida para apresentar e processar os dados coletados através do aplicativo TAGalera. O aplicativo TAGalera foi criado no Hackathon da Shawee: Megahack3 no desafio Ambev.
 
 Você pode explorar a Dashboard interativamente [Clicando Aqui](http://dashboard-megahack3.herokuapp.com/)
