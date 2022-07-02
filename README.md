@@ -1,6 +1,6 @@
  ![](/titulo.png)
 # Dashboard Mega Hack 3
-<sub>[Outros Projetos](https://github.com/jhpenas/portfolio).</sub>
+<sub>[More Projects](https://github.com/jhpenas/portfolio).</sub>
 
 <sub>Em português [aqui](https://github.com/jhpenas/dashboard-megahack3/blob/master/README%20pt.md).</sub>
 
