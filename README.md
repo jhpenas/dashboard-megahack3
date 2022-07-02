@@ -2,24 +2,23 @@
 # Dashboard Mega Hack 3
 <sub>[Outros Projetos](https://github.com/jhpenas/portfolio).</sub>
 
-<sub>Em português [aqui](https://github.com/jhpenas/dashboard-megahack3/blob/master/README.md).</sub>
+<sub>Em português [aqui](https://github.com/jhpenas/dashboard-megahack3/blob/master/README%20pt.md).</sub>
 
 ---
-Aplicação desenvolvida para apresentar e processar os dados coletados através do aplicativo TAGalera. O aplicativo TAGalera foi criado no Hackathon da Shawee: Megahack3 no desafio Ambev.
+Application developed to present and process the data collected through the TAGalera application. The TAGalera app was created in the Shawee Hackathon: Megahack3 in the Ambev challenge.
 
-Você pode explorar a Dashboard interativamente [Clicando Aqui](http://dashboard-megahack3.herokuapp.com/)
+You can explore the Dashboard interactively [Clicking Here](http://dashboard-megahack3.herokuapp.com/)
 
-Fabricantes de bebidas em geral costumam negociar seus produtos com distribuidoras, e estas o repassam para o consumidor final. Por este motivo, as fabricantes mantém uma certa distância dos consumidores, fazendo com que haja uma dificuldade em monitorar o perfil deste.
+Beverage manufacturers in general usually negotiate their products with distributors, and they pass it on to the final consumer. For this reason, manufacturers keep a certain distance from consumers, making it difficult to monitor their profile.
 
-Pensando nisso, atráves dos dados coletados do aplicativo TAGalera, foi criada esta dashboard interativa, com ela o fabricante pode monitorar o perfil dos consumidores de determinado produto e prever quais serão suas bebidas preferidas.
+With this in mind, through the data collected from the TAGalera application, this interactive dashboard was created, with which the manufacturer can monitor the profile of consumers of a particular product and predict which will be their favorite drinks.
 
 
-
-Na opção "Ver perfil dos consumidores de cada bebida", a fabricante pode observar o perfil dos consumidores de determinado produto, através de diversos gráficos, e com isso, direcionar suas futuras campanhas de marketing.
+In the option "Ver perfil dos consumidores de cada bebida", or "See Consumer's profile for each drink", the manufacturer can observe the profile of consumers of a certain product, through several graphs, and with that, direct its future marketing campaigns.
  ![](/screenshots/tagalera2.png)
 
 
-Na opção "Prever Bebida Preferida do Consumidor", através de um algoritmo de Machine Learning baseado em regressão Logística, pode-se prever bebidas que o usuário apresenta grande chance de aprovar baseado em seu perfil.
+Na opção "Prever Bebida Preferida do Consumidor", or "Predict Consumer's Preferred Drink" option, through a Machine Learning algorithm based on Logistic regression, it is possible to predict drinks that the user has a high chance of approving based on their profile.
  ![](/screenshots/tagalera1.png)
  
-**Importante:** O aplicativo mobile TAGalera foi desenvolvido por Everson Motta, Jhonata Araújo, Juan Penas e Rafael Bleidi no Hackathon Megahack3. O aplicativo foi concluído, porém ainda não foi lançado, por este motivo, foi criada uma base de dados em caráter demonstrativo de suas funcionalidades. Onde seus dados foram coletados a partir de formulário Google Forms, e os campos Bebida e Música favorita foram gerados randomicamente, somente para demonstrações. Você encontra mais informações sobre o app TAGalera [Clicando Aqui](https://www.youtube.com/watch?v=E8EyqLHNyJU).
+**Important:** The TAGalera mobile application was developed by Everson Motta, Jhonata Araújo, Juan Penas and Rafael Bleidi at Hackathon Megahack3. The application has been completed, but has not yet been launched, for this reason, a database was created to demonstrate its features. Where your data was collected from a Google Forms form, and the Drink and Favorite Music fields were randomly generated, just for demonstrations. You can find more information about the TAGalera app [Clicking Here](https://www.youtube.com/watch?v=E8EyqLHNyJU).
